@@ -2,3 +2,6 @@
 memory-bank/
 **/.env
 **/.env.local
+# Ignore virtual environments
+.venv/
+**/.venv/
