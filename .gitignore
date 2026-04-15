@@ -1,0 +1,4 @@
+# Ignore sensitive or local-only assets
+memory-bank/
+**/.env
+**/.env.local
